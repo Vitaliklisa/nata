@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
               // Navigate back to first route when tapped.
               goToSecond(context);
             },
-            child: Text('Go back!'),
+            child: Text('Go to second page'),
           )
         ],
       ),
