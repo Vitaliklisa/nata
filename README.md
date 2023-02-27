@@ -1,5 +1,5 @@
 # nata
 
-A new Flutter Nata project.
+A new site with little hand made projects.
 
 
