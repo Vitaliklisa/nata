@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 
 class ScreenModel with ChangeNotifier {
-  Color _black = Color(0xFF000000);
-  Color _white = Color(0xFFFFFFFF);
+  final Color _black = const Color(0xFF000000);
+  final Color _white = const Color(0xFFFFFFFF);
 
   late Color _backgroundColor = _black;
 
